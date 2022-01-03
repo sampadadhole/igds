@@ -10,13 +10,13 @@ body {
 }
 
 a {
-  color: #18d26e;
+  color: #f17f3c;
   transition: 0.5s;
   text-decoration: none;
 }
 
 a:hover, a:active, a:focus {
-  color: #18d36e;
+  color: #f17f3c;
   outline: none;
   text-decoration: none;
 }
@@ -212,7 +212,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 12px;
 }
 .navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
-  color: #18d26e;
+  color: #f17f3c;
 }
 .navbar .dropdown:hover > ul {
   opacity: 1;
@@ -294,7 +294,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #333333;
 }
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
-  color: #18d26e;
+  color: #f17f3c;
 }
 .navbar-mobile .getstarted, .navbar-mobile .getstarted:focus {
   margin: 15px;
@@ -320,7 +320,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 12px;
 }
 .navbar-mobile .dropdown ul a:hover, .navbar-mobile .dropdown ul .active:hover, .navbar-mobile .dropdown ul li:hover > a {
-  color: #18d26e;
+  color: #f17f3c;
 }
 .navbar-mobile .dropdown > .dropdown-active {
   display: block;
@@ -554,7 +554,7 @@ section {
   background-image: linear-gradient(0deg, #000000 0%, #242323 50%, #000000 100%);
 }
 #featured-services i {
-  color: #18d26e;
+  color: #f17f3c;
   font-size: 48px;
   display: inline-block;
   line-height: 1;
@@ -568,7 +568,7 @@ section {
   color: #fff;
 }
 #featured-services h4 a:hover {
-  color: #18d26e;
+  color: #f17f3c;
 }
 #featured-services p {
   font-size: 14px;
@@ -650,7 +650,7 @@ section {
   color: #000;
 }
 #about .about-col h2 a:hover {
-  color: #18d26e;
+  color: #f17f3c;
 }
 #about .about-col p {
   font-size: 14px;
